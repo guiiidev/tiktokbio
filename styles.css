@@ -1,3 +1,7 @@
+* {
+    font-family: 'Poppins';
+}
+
 /* Reset básico */
 body, h1, a {
     margin: 0;
